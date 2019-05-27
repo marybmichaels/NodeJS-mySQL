@@ -1,7 +1,7 @@
 # Bamazon!
 
 ## Before Starting
-1. Run `npm i`
+1. Run `npm i` in the command line. 
 2. Run `schema.sql` in mySQL workbench.
     This will set up your database and table. 
 ![](images/schema-set-up.png)
