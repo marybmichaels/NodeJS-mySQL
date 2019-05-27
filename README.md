@@ -10,7 +10,7 @@
 ![](images/seed-data.png)
 
 
-    Here is a visual of the data being entered. 
+    Here is a visual of table's contents.
 ![](images/table-contents.png)
 
 
