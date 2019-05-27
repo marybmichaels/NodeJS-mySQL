@@ -7,11 +7,11 @@
 ![](images/schema-set-up.png)
 
     It will also insert seed data into the table.
-![](images/schema-set-up.png)
+![](images/seed-data.png)
 
 
     Here is a visual of the data being entered. 
-![](images/schema-set-up.png)
+![](images/table-contents.png)
 
 
 ## Using Node in the Command Line
